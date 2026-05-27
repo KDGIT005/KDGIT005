@@ -9,7 +9,7 @@
 ```java
 public class Kuldeep {
 
-    String[] role     = { "Java Backend Developer", "DevOps Enthusiast", "CS Undergrad '26" };
+    String[] role     = { "Java Backend Developer", "DevOps Enthusiast", "CS Undergrad '27" };
     String   location = "India";
     String[] building = { "Scalable REST APIs", "CI/CD Pipelines", "AI-integrated systems" };
     String   goal     = "Crack top-tier SWE roles in 2026";
