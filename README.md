@@ -33,7 +33,7 @@ public class Kuldeep {
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-0000FF?style=for-the-badge&logo=h2&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -42,6 +42,12 @@ public class Kuldeep {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Other**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -53,36 +59,38 @@ public class Kuldeep {
 <tr>
 <td width="50%">
 
-### 🏥 AI Health Monitor
-Intelligent health monitoring system combining **cloud infrastructure** and **AI prediction models** for real-time biometric analysis and personalized recommendations.
+### 🚗 [CABO — College Ride Sharing Platform](https://github.com/KDGIT005/CABO)
+Full-stack ride-sharing app for college students. Post rides you're already taking and let others join — not a cab service.
 
-`Spring Boot` `AWS` `AI/ML` `REST API`
+**Live:** [cabo-two.vercel.app](https://cabo-two.vercel.app)
+
+`React` `Spring Boot` `PostgreSQL` `Firebase Auth` `WebSocket` `Docker` `Vercel` `Render`
 
 </td>
 <td width="50%">
 
-### 🔁 CI/CD Pipeline System
-Automated build & deployment workflows using **GitHub → Jenkins → Docker** — zero-touch deployments with containerized application delivery.
+### 🏥 [HealthSense AI](https://github.com/KDGIT005/HealthSense-AI)
+Android health monitoring app with Material 3 UI, built for smartwatch-driven disease prediction. Future integrations include TensorFlow Lite on-device ML and Google Fit data ingestion.
 
-`Jenkins` `Docker` `GitHub Actions` `Linux`
+`Kotlin` `MVVM` `Material 3` `Android` `Python`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📦 Spring Boot CRUD APIs
-Production-grade RESTful APIs with **JPA/Hibernate**, clean layered architecture, and full database integration.
+### 🌱 [Carbon Fossil Assessment System](https://github.com/KDGIT005/Carbon-Fossil-Assessment-System)
+Web platform to quantify the carbon footprint of Indian coal mines, with emissions visualization, geo-mapping, and sustainability recommendations.
 
-`Java` `Spring Boot` `MySQL` `JPA`
+`JavaScript` `Node.js` `MySQL` `Python` `Data Visualization`
 
 </td>
 <td width="50%">
 
-### 🔐 JWT Auth Service *(In Progress)*
-Secure authentication & authorization microservice with role-based access control.
+### 🧹 [YouTube Watch Later Cleaner](https://github.com/KDGIT005/YouTube-Watch-Later-Cleaner)
+Chrome extension that automates bulk-removing videos from your Watch Later playlist with one click. Includes safe delays to avoid YouTube rate limits.
 
-`Spring Security` `JWT` `Spring Boot`
+`JavaScript` `Chrome Extension` `HTML`
 
 </td>
 </tr>
@@ -99,7 +107,7 @@ Secure authentication & authorization microservice with role-based access contro
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDGIT005&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=KDGIT005&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
@@ -123,7 +131,7 @@ Secure authentication & authorization microservice with role-based access contro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-dhangad-483407290/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDGIT005)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepdhangad@gmail.com)
 
 </div>
 
