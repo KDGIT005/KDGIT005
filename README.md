@@ -96,21 +96,6 @@ Chrome extension that automates bulk-removing videos from your Watch Later playl
 </tr>
 </table>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KDGIT005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDGIT005&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KDGIT005&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br/>
 
 ## 📚 Currently Levelling Up
 
