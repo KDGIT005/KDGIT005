@@ -79,18 +79,20 @@ Android health monitoring app with Material 3 UI, built for smartwatch-driven di
 <tr>
 <td width="50%">
 
-### 🌱 [Carbon Fossil Assessment System](https://github.com/KDGIT005/Carbon-Fossil-Assessment-System)
-Web platform to quantify the carbon footprint of Indian coal mines, with emissions visualization, geo-mapping, and sustainability recommendations.
+### 🕉️ [MahaSahayak AI](https://github.com/KDGIT005/MahaSahayak-AI)
+AI-powered volunteer deployment platform built for the Mahakumbh Innovation Hackathon 2028. Matches volunteers to zones by skill, language & workload via Gemini, deploys emergency responders in under 3 seconds, and tracks burnout risk in real time.
 
-`JavaScript` `Node.js` `MySQL` `Python` `Data Visualization`
+**Live:** [maha-sahayak-ai.vercel.app](https://maha-sahayak-ai.vercel.app)
+
+`Next.js` `TypeScript` `Tailwind CSS v4` `Gemini API` `Recharts`
 
 </td>
 <td width="50%">
 
-### 🧹 [YouTube Watch Later Cleaner](https://github.com/KDGIT005/YouTube-Watch-Later-Cleaner)
-Chrome extension that automates bulk-removing videos from your Watch Later playlist with one click. Includes safe delays to avoid YouTube rate limits.
+### 🧍 [PostureSense](https://github.com/KDGIT005/PostureSense)
+Webcam-based AI posture monitor that learns *your* good posture and gives specific, real-time coaching instead of generic beeps — built to fix my own slouching habit while coding for hours.
 
-`JavaScript` `Chrome Extension` `HTML`
+`Python` `MediaPipe` `scikit-learn` `OpenCV`
 
 </td>
 </tr>
