@@ -78,14 +78,24 @@ public class Kuldeep {
 <tr>
 <td width="50%">
 
-### 🏆 [Cosmic Circle — AstroHack 2026](https://github.com/KDGIT005/Cosmic-Circle)
-`Winner` — Built for AstroLive's hackathon: two people unlock a shared astrology forecast together via invite. Themed to match AstroLive's own dark cosmic brand.
+### 🚗 [CABO — College Ride Sharing](https://github.com/KDGIT005/CABO)
+`Live` — Full-stack ride-sharing app for college students. Post rides you're already taking and let others join — not a cab service.
 
-**Live:** [cosmic-circle-two.vercel.app](https://cosmic-circle-two.vercel.app)
+**Live:** [cabo-two.vercel.app](https://cabo-two.vercel.app)
 
-`React` `Antigravity` `Dark UI` `Team StarSync`
+`React` `Spring Boot` `PostgreSQL` `WebSocket` `Docker`
 
 </td>
+<td width="50%">
+
+### 📝 [The Minute Book — Meeting Summarizer](https://github.com/KDGIT005/The-Minute-Book-)
+Upload a meeting recording and get a transcript, summary, and action items — with a premium landing page in front of the dashboard.
+
+`React` `TypeScript` `Tailwind CSS` `MySQL` `ASR` `LLM`
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏆 [MahaSahayak AI](https://github.com/KDGIT005/MahaSahayak-AI)
@@ -94,18 +104,6 @@ public class Kuldeep {
 **Live:** [maha-sahayak-ai.vercel.app](https://maha-sahayak-ai.vercel.app)
 
 `Next.js` `TypeScript` `Tailwind CSS` `Gemini API` `Recharts`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 [CABO — College Ride Sharing](https://github.com/KDGIT005/CABO)
-`Live` — Full-stack ride-sharing app for college students. Post rides you're already taking and let others join — not a cab service.
-
-**Live:** [cabo-two.vercel.app](https://cabo-two.vercel.app)
-
-`React` `Spring Boot` `PostgreSQL` `WebSocket` `Docker`
 
 </td>
 <td width="50%">
@@ -149,19 +147,6 @@ Webcam-based AI posture monitor that learns *your* good posture and gives specif
 ▸ DSA — Daily problem solving in Java
 ▸ AI Integrations & Intelligent Automation
 ```
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KDGIT005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0f6e56&icon_color=185fa5&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KDGIT005&hide_border=true&background=0D1117&ring=185fa5&fire=0f6e56&currStreakLabel=185fa5" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDGIT005&layout=compact&hide_border=true&bg_color=0D1117&title_color=0f6e56&text_color=c9d1d9" width="40%"/>
-
-</div>
 
 <br/>
 
